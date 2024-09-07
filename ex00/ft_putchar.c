@@ -7,7 +7,7 @@ void ft_putchar(char c)
 }
 int main()
 {
-	char c = 'a';
+	char c = 'c';
 	ft_putchar(c);
 	return 0;
 }
